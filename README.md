@@ -14,7 +14,7 @@ No applications or projects have been released to answer this problematic.
 Nowadays we are going to a new way of medicine, we call it P4.
 P4 because it's a medicine : - Predictive - Preventive - Personnalize - Participative.
 
-Technologies, Big Data, and all others things allowed us to make and to think about new projects, new ways.
+Technologies, Big Data, and all others things allowed us to make and think about new projects, new ways.
 
 #### Why medicine is changing ?
 
@@ -23,3 +23,8 @@ Secondly, per exemple, treatments and decisions are based on a larged population
 P4 Medicine, is a new way for personnalized medicine.
 
 ##### And this application, want to democratise the medical knowledge, between doctors and others medical actors, and you. Because you are the only one of you.
+
+
+© Sullivan DAVID - 2015
+  EPITECH Student
+  EISBM (CNRS) Intership Developper - Biological - Medical Research - Genomical 
