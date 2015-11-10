@@ -29,4 +29,4 @@ P4 Medicine, is a new way for personnalized medicine.
 
   EPITECH Student
   
-  EISBM (CNRS) Intership Developper - Biological - Medical Research - Genomical 
+  EISBM (CNRS) Internship Developper - Biological - Medical Research - Genomical 
