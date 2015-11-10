@@ -26,5 +26,7 @@ P4 Medicine, is a new way for personnalized medicine.
 
 
 © Sullivan DAVID - 2015
+
   EPITECH Student
+  
   EISBM (CNRS) Intership Developper - Biological - Medical Research - Genomical 
