@@ -5,7 +5,7 @@
 
 P4Med is a web application, and later a mobile application too.
 
-P4Med's concept is simple, the aim is to bring together every healthcare professions. These, can be surgeons, nurses, doctors, caridologists, medical students, professors, AND YOU.
+P4Med's concept is simple, the aim is to bring together every healthcare professions. These, can be surgeons, nurses, doctors, cardiologists, medical students, professors, AND YOU.
 All of them can post pictures, sounds or videos of their consenting patients diseases / problems, in aim to share, learn something new, help to make a diagnostic purpose...
 No applications or projects have been released to answer this problematic.
 
